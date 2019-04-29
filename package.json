@@ -1,0 +1,31 @@
+{
+  "name": "@sweetalert2/execute",
+  "version": "1.0.0",
+  "repository": "sweetalert2/execute",
+  "description": "Execute command with well-formatted output",
+  "main": "execute.js",
+  "dependencies": {
+    "execa": "^1.0.0"
+  },
+  "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
+  "contributors": [
+    "Giuseppe Verni (https://github.com/gverni)",
+    "Matthew Francis Brunetti <zenflow87@gmail.com> (https://github.com/zenflow)"
+  ],
+  "files": [
+    "execute.js",
+    "stream-array.js"
+  ],
+  "keywords": [
+    "execute",
+    "exec",
+    "execa",
+    "cmd",
+    "cli",
+    "spawn",
+    "shell",
+    "run"
+  ],
+  "bugs": "https://github.com/sweetalert2/execute/issues",
+  "license": "MIT"
+}
