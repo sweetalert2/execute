@@ -5,7 +5,7 @@
   "description": "Execute command with well-formatted output",
   "main": "execute.js",
   "dependencies": {
-    "execa": "^1.0.0"
+    "execa": "^2.0.0"
   },
   "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
   "contributors": [
